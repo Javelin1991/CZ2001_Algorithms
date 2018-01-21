@@ -1,0 +1,3 @@
+Singapore|Hong Kong|Shanghai|Seoul|Beijing|Tokyo|Los Angeles|Sydney|London|Dubai
+Singapore|Hong Kong|Shanghai|Seoul|Beijing|Tokyo|Los Angeles|Sydney|London|Dubai|Kuala Lumpur|Osaka|Taipei|Macau|Shenzhen
+Singapore|Hong Kong|Shanghai|Seoul|Beijing|Tokyo|Los Angeles|Sydney|London|Dubai|Kuala Lumpur|Osaka|Taipei|Macau|Shenzhen|San Francisco|Bangkok|Jakarta|Phuket|Melbourne
